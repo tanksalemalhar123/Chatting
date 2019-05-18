@@ -1,0 +1,16 @@
+{
+  "name": "socketio",
+  "version": "1.0.0",
+  "description": "Simple Chat App",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Malhar",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "2.0",
+    "express": "*"
+  }
+}
